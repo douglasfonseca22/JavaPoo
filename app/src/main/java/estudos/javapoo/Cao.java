@@ -1,4 +1,4 @@
 package estudos.javapoo;
 
-public class Cao {
+public class Cao extends Animal{
 }
