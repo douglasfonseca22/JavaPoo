@@ -1,4 +1,4 @@
 package estudos.javapoo;
 
-public class Passaro {
+public class Passaro extends Animal{
 }
