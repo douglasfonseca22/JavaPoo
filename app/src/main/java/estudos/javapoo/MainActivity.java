@@ -14,11 +14,14 @@ public class MainActivity extends AppCompatActivity {
 //        Casa minhaCasa = new Casa();
 //        minhaCasa.cor = "Douglas vai ser um otimo dev mobile android nativo + RN e C#";
 
-        Funcionario funcionario = new Funcionario();
-        funcionario.nome = "Douglas";
-        funcionario.salario = 1200;
+//        Funcionario funcionario = new Funcionario();
+//        funcionario.nome = "Douglas";
+//        funcionario.salario = 1200;
 
-       double salarioRecuperado =  funcionario.recuperarSalario( 150, 150 );
-        System.out.println( "O salário é " + salarioRecuperado );
+//       double salarioRecuperado =  funcionario.recuperarSalario( 150, 150 );
+//        System.out.println( "O salário é " + salarioRecuperado );
+
+        Animal animal = new Animal();
+        animal.correr();
     }
 }
